@@ -5,3 +5,6 @@ dependencies:
     -re
     -sqlite3
     -datetime
+    -numpy
+    -matplotlib
+    -pybrain
