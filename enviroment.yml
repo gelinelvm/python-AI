@@ -1,0 +1,7 @@
+dependencies:
+  - python=2
+  - pip:
+    -urllib
+    -re
+    -sqlite3
+    -datetime
